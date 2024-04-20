@@ -9,8 +9,10 @@
 		  </tr>
 	  </table>
 </div>
+
 #### Current Development Environment:
-I currently use neovim inside of openSUSE from the vscode terminal
+
+I currently run Neovim on openSUSE through the VSCode terminal.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanfeltz)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aidanfeltz)
